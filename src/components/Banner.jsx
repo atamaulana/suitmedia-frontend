@@ -1,6 +1,6 @@
 // src/components/Banner.jsx
 import React from "react";
-import "./Banner.css"; // CSS terpisah agar mudah diatur
+import "./banner.css"; // CSS terpisah agar mudah diatur
 
 export default function Banner() {
   return (
