@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Navbar, Nav } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
-import "./Header.css";
+import "./header.css";
 
 export default function Header() {
   const [show, setShow] = useState(true);
